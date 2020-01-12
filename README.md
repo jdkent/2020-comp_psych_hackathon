@@ -26,9 +26,9 @@ When the jupyter notebook interface is open, you are ready to install
 some packages to help you get productive quickly.
 
 1. First click new on the right hand side of the jupyter notebook interface.
-![Step 0](.imgs/00-click_new.png)
+    ![Step 0](.imgs/00-click_new.png)
 2. Then click terminal so we can enter some commands.
-![Step 1](.imgs/01-click_terminal.png)
+    ![Step 1](.imgs/01-click_terminal.png)
 3. Type the following to get the code we are going to run.
     - `git clone https://github.com/jdkent/2020-comp_psych_hackathon.git`
 4. Change directories into `2020-comp_psych_hackathon`.
